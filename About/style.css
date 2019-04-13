@@ -216,7 +216,7 @@ html {
     margin-right: -15px;
     margin-left: -15px;
   }
-   .col-sm-2, .col-md-2, .col-sm-4, .col-md-4, .col-sm-6, .col-md-6, .col-md-12, .col-lg-12 { 
+   .col-sm-2, .col-md-2, .col-sm-4, .col-md-3, .col-md-4, .col-sm-6, .col-md-6, .col-md-12, .col-lg-12 { 
     position: relative;
     min-height: 1px;
     padding-right: 15px;
